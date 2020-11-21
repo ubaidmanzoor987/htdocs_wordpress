@@ -1,0 +1,16 @@
+2020-11-21T15:29:06+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php:39
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\Framework\Controller\AbstractController.php(93): call_user_func_array()
+#3 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\Framework\Application\AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction()
+#4 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-co in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php on line 39
+
+2020-11-21T15:30:32+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php:39
+Stack trace:
+#0 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\Framework\Controller\AbstractController.php(93): call_user_func_array()
+#3 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\Framework\Application\AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction()
+#4 C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-co in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php on line 39
+
