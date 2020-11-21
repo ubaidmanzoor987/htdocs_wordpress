@@ -1,0 +1,56 @@
+2020-11-18T10:21:35+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
+2020-11-18T15:05:38+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
+2020-11-18T15:12:27+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
+2020-11-18T17:29:26+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
+2020-11-18T19:20:42+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
+2020-11-18T19:23:52+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+
+2020-11-18T19:24:54+00:00 CRITICAL Uncaught Error: Call to a member function isGroup() on null in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php:39
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ControllerPreRenderSlider.php(32): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Controller/AbstractController.php(93): call_user_func_array(Array, Array)
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/Framework/Application/AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 /srv/disk13/36557 in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/smart-slider-3/Nextend/SmartSlider3/Application/Frontend/Slider/ViewIframe.php on line 39
+

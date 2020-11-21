@@ -1,0 +1,144 @@
+2020-11-18T08:27:41+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:27:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:27:41+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:27:41+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:27:44+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:27:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:27:44+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:27:44+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:30:42+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:30:42+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:31:54+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:31:54+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:34:21+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:34:21+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-18T08:35:25+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-18T08:35:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+

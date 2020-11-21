@@ -1,0 +1,8 @@
+2020-11-20T16:49:34+00:00 CRITICAL Uncaught Error: Call to a member function get_meta() on bool in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/elementor/includes/controls/groups/typography.php:97
+Stack trace:
+#0 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/elementor/includes/controls/groups/base.php(164): Elementor\Group_Control_Typography->init_fields()
+#1 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/elementor/includes/controls/groups/base.php(253): Elementor\Group_Control_Base->get_fields()
+#2 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/elementor/includes/controls/groups/base.php(89): Elementor\Group_Control_Base->filter_fields()
+#3 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/elementor/includes/base/controls-stack.php(699): Elementor\Group_Control_Base->add_controls(Object(PremiumAddons\Widgets\Premium_Modalbox), Array, Array)
+#4 /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins in /srv/disk13/3655770/www/southerngovern.atwebpages.com/wp-content/plugins/elementor/includes/controls/groups/typography.php on line 97
+

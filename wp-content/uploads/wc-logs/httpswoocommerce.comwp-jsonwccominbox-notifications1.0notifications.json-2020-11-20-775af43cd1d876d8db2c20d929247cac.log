@@ -1,0 +1,90 @@
+2020-11-20T08:52:32+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-20T08:52:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-20T08:52:32+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-20T08:52:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-20T10:35:02+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-20T10:35:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-20T10:38:26+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-20T10:38:26+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
+2020-11-20T10:38:39+00:00 ERROR Error getting remote inbox notification data feed
+2020-11-20T10:38:39+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443: Connection refused
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+)
+
