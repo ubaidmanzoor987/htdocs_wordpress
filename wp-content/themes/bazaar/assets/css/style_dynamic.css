@@ -37,6 +37,9 @@ nav.qodef-fullscreen-menu ul li ul li ul li a:hover, nav.qodef-fullscreen-menu u
 /* generated in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\themes\bazaar\framework\modules\header\types\header-minimal\admin\custom-styles\full-screen-menu-custom-styles.php bazaar_qodef_fullscreen_menu_icon_styles function */
 .qodef-fullscreen-menu-opener:hover, .qodef-fullscreen-menu-opener.qodef-fm-opened { color: #8b734b!important;}
 
+/* generated in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\themes\bazaar\framework\modules\header\types\mobile-header\admin\custom-styles\mobile-header-custom-styles.php bazaar_qodef_mobile_header_general_styles function */
+.qodef-mobile-header .qodef-mobile-header-inner { background-color: #ffffff00;}
+
 /* generated in C:\Bitnami\wordpress-5.5.3-0\apps\wordpress\htdocs\wp-content\themes\bazaar\framework\modules\header\types\top-header\admin\custom-styles\top-header-custom-styles.php bazaar_qodef_header_top_bar_styles function */
 .qodef-top-bar-background { height: 91px;}
 
