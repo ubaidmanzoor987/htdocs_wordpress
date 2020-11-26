@@ -3,7 +3,7 @@
 /* Default comment here */ 
 
 function hide_and_show(){
-  var e = document.getElementsByClassName('.development_internally');
+  var e = document.getElementsByClassName('development_internally');
   e.style.visibility = "hidden";
 }
 
