@@ -1,6 +1,8 @@
 <!-- start Simple Custom CSS and JS -->
 <script type="text/javascript">
 /* Default comment here */ 
+ 
+var show_next = 0;
 
 function setVisibilitytoAll (s, visibility){
   for (var i=0 ; i<s.length ; i++){
@@ -73,6 +75,25 @@ function show_other(event){
   setVisibilitytoAll(document.getElementsByClassName('residential'),"none");
   event.preventDefault();
 }
+
+function show_prev(event){
+  var getintouchmap = document.getElementsByClassName('getintouchmap')[0].style.display;
+  if (getintouchmap == "none"){
+   document.getElementsByClassName('getintouchmap')[0].style.display = 'block';
+    document.getElementsByClassName('getintouchcareer')[0].style.display = 'none';
+  }
+  else{
+    document.getElementsByClassName('getintouchmap')[0].style.display = 'none';
+    document.getElementsByClassName('getintouchcareer')[0].style.display = 'block';
+  }
+  event.preventDefault();
+}
+
+function show_nect(event){
+  alert("salam");
+  event.preventDefault();
+}
+
 
 
 </script>
